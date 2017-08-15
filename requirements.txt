@@ -13,3 +13,4 @@ psycopg2==2.6.1
 static3==0.6.1
 wheel==0.24.0
 django-extensions
+django-bleach
